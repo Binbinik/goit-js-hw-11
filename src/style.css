@@ -1,5 +1,4 @@
 body {
-  padding: 0 5px;
   font-family: Arial, sans-serif;
 }
 
@@ -14,6 +13,7 @@ body {
 }
 
 .gallery {
+  padding: 0 5px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
